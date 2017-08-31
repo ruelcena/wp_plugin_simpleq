@@ -1,0 +1,112 @@
+.tab-content {margin-top: 15px;}
+.w-md {width: 60%;}
+.w-sm {width: 40%;}
+
+
+
+.w-md .action-menu a {display: inline-block;margin-right: 4px;}
+.simpleq .error {color:red;} 
+.w-md .column-action {width: 60px;} 
+
+.simpleq #questionnaire .column-action {width: 150px;}
+.simpleq #questionnaire .column-qorder {width: 60px;}
+
+.simpleq #choices_tag {width:80px !important;}
+
+.simpleq .form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.simpleq .qpreview .prev-title {color:#00cc00;font-style:italic;}
+.simpleq .qa-hide th,
+.simpleq .qa-hide td {background-color: #ccc;}
+.simpleq .note {color:#999;font-style:italic;}
+.simpleq .required {color:red;display:inline-block;}
+
+.simpleq .qpreview {background-color:#fff;padding: 10px;border-radius: 3px;}
+
+.simpleq .qa-group-child-parent {font-size: 11px;font-style:italic;color:#999;}  
+
+/*reset*/
+.simpleq .form-table td {padding:0px;}
+.simpleq div.tagsinput {border-radius:4px;}
+
+.simpleq .notice {padding: 8px;}
+
+.simpleq .w-xs {width: 50px !important;}
+
+
+.simpleq-qa {padding: 10px;}
+.simpleq-qa ul {list-style:none;}
+
+.simpleq-qa .qa_child {display:none;}
+.simpleq-qa .qa-required {color:red;}
+.simpleq-qa .qa-error {background-color: #f8d7da;border-color: #f5c6cb;padding:8px;border-radius:3px;}
+
+.simpleq-qa .w-sm {width: 80px !important;}
+
+.simpleq-qa .t-w-sm {width: 50%;}
+
+.simpleq-qa .inline-input {display:inline;}
+.simpleq-qa .qnote {color:#999;font-style:italic;}
+
+.simpleq-qa .simpleq-declaration ul li {padding-left: 15px;}
+
+.simpleq-qa .m-signature-pad--body {border: 1px solid #ccc;border-radius:3px;width:300px;height:150px;background-color:#fff;}
+.simpleq-qa .qa-title {color: #1f4e79;font-size: 3rem;font-weight: 600;letter-spacing: -1px;}
+
+.simpleq-qa .stab {margin-bottom: 30px;}
+.simpleq-qa .stab .non-active {color:#ccc;}
+.simpleq-qa .stab .col-md-2 {padding:0px;margin:0px;}
+.simpleq-qa .stab .stab-num {font-size: 2.25em;}
+.simpleq-qa .stab .stab-title {font-weight:bold;}
+
+.simpleq-qa .container {width: 1100px;}
+
+.simpleq-qa .error p {font-size: 13px;margin:0px;color:red;}
+.simpleq-qa .required {color:red;}
+
+.simpleq-qa .stab2-content,
+.simpleq-qa .stab3-content,
+.simpleq-qa .stab4-content,
+.simpleq-qa .stab5-content,
+.simpleq-qa .stab6-content {display:none;}
+
+.simpleq-qa .simpleq-general .row {margin-left:0px;margin-right:0px;}
+
+.simpleq-qa .qafirst,
+.simpleq-qa .qalast {padding-left:0px;padding-right:0px;}
+.simpleq-qa .qafirst {padding-right:15px;}
+
+.simpleq-qa .qafirst.col-md-6.qa-error {padding-left:8px;}
+.simpleq-qa .qalast.col-md-6.qa-error {padding-right:8px;}
+.simpleq-qa button[type="submit"] {float:right;background-color:#1560bd;}
+.simpleq-qa ul {margin-bottom: 10px;}
+
+.simpleq-qa #regMForm .row {margin-right:0px;margin-left:0px;}
+.simpleq-qa #regMForm button[type="submit"] {float:none;}
+
+.simpleq-qa .invalid-captcha,
+.simpleq-qa #regMForm .email-exist {color:red;display:none;font-size: 13px;}
+ 
+
+.toplevel_page_simpleq ul li:nth-child(6),
+.toplevel_page_simpleq ul li:nth-child(7),
+.toplevel_page_simpleq ul li:nth-child(8) {
+display:none;
+}
